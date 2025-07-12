@@ -13,7 +13,7 @@ A simple web application project.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/webapplication.git
+    git clone https://github.com/palurusubbanarasaiah/webapplication.git
     cd webapplication
     ```
 
